@@ -2,10 +2,26 @@
 
 // Dummy departments data
 export const dummyDepartments = [
-    { id: 1, name: 'Department A' },
-    { id: 2, name: 'Department B' },
-    // Add more dummy departments as needed
-  ];
+  { id: 1, name: 'Engineering/Development' },
+  { id: 2, name: 'Product Management' },
+  { id: 3, name: 'Marketing' },
+  { id: 4, name: 'Sales' },
+  { id: 5, name: 'Customer Support/Service' },
+  { id: 6, name: 'Human Resources (HR)' },
+  { id: 7, name: 'Finance' },
+  { id: 8, name: 'Legal' },
+  { id: 9, name: 'Information Technology (IT)' },
+  { id: 10, name: 'Research and Development (R&D)' },
+  { id: 11, name: 'Quality Assurance/Testing' },
+  { id: 12, name: 'Operations' },
+  { id: 13, name: 'Data Science/Analytics' },
+  { id: 14, name: 'Security' },
+  { id: 15, name: 'Design/UX (User Experience)' },
+  { id: 16, name: 'Department B' },
+  { id: 17, name: 'Department C' },
+  // Add more dummy departments as needed
+];
+
   
   // Dummy employees data
   export const dummyEmployees = [

@@ -16,9 +16,9 @@ const Departments = () => {
   return (
     <div className="container">
       <h2>All Departments</h2>
-      <ul>
+      <ul >
         {departments.map((department) => (
-          <li key={department.id}>{department.name}</li>
+          <li className='department' key={department.id}>{department.name}</li>
         ))}
       </ul>
     </div>
